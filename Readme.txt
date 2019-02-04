@@ -10,10 +10,12 @@ Requirements :
 How to Run :
 
 1. Download code from repository
-2. Save it one of your preferred locations on your machine
-3. Navigate to the home directory of the projecct
-4. Run "runTests.bat"
-5. Once test execution is completed , Report is generated under \target\cucumber-reports\advanced-reports\cucumber-html-reports\overview-features.html
+2. Extract it to one of  preferred locations on your machine
+3. Open command prompt(cmd)
+4. cd <Project_Home> ex : cd C:\Temp\AutomationTest-master\AutomationTest-master
+5. run "mvn clean install" in cmd
+6. Test should start running ,progress can be monitoted in cmd
+7. Once test execution is completed , Report is generated under \target\cucumber-reports\advanced-reports\cucumber-html-reports\overview-features.html
 
 Features :
 . Used cucumber framework to map steps defined in the document to traslate into test case
