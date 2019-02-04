@@ -1,0 +1,60 @@
+04/Feb/2019 13:57:43,792- HTTPComponent: url : https://reqres.in/api/users
+04/Feb/2019 13:57:43,821- HTTPComponent: Response : {"name":"John Smith","job":"Tech Test","id":"675","createdAt":"2019-02-04T14:01:43.056Z"}
+04/Feb/2019 13:57:43,822- HTTPComponent: StatusCode : 201
+04/Feb/2019 13:57:43,822- HTTPComponent: Request Headers : 
+04/Feb/2019 13:57:43,823- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 13:57:43 GMTContent-Type:application/json; charset=utf-8Content-Length:89Connection:keep-aliveSet-Cookie:__cfduid=d15be22919c0f0287b926f43b1bc026101549288663; expires=Tue, 04-Feb-20 13:57:43 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"59-Xeomq3m2PWTCGajsCBCPsH4BGTU"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3da5e04dcf3641-MAN
+04/Feb/2019 13:57:44,565- HTTPComponent: url : https://reqres.in/api/users/2
+04/Feb/2019 13:57:44,565- HTTPComponent: Response : {"name":"John","job":"Tech Architect","updatedAt":"2019-02-04T14:01:43.802Z"}
+04/Feb/2019 13:57:44,565- HTTPComponent: StatusCode : 200
+04/Feb/2019 13:57:44,565- HTTPComponent: Request Headers : 
+04/Feb/2019 13:57:44,565- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 13:57:44 GMTContent-Type:application/json; charset=utf-8Transfer-Encoding:chunkedConnection:keep-aliveSet-Cookie:__cfduid=d8411105ad8b5ebff7352212ce47a7a841549288663; expires=Tue, 04-Feb-20 13:57:43 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"4d-k7z7ic2JGZezZl+NasM2UmuqH4g"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3da5e509713635-MAN
+04/Feb/2019 13:57:45,174- HTTPComponent: url : https://reqres.in/api/users/2
+04/Feb/2019 13:57:45,174- HTTPComponent: Response : {"data":{"id":2,"first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"}}
+04/Feb/2019 13:57:45,174- HTTPComponent: StatusCode : 200
+04/Feb/2019 13:57:45,174- HTTPComponent: Request Headers : 
+04/Feb/2019 13:57:45,174- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 13:57:44 GMTContent-Type:application/json; charset=utf-8Transfer-Encoding:chunkedConnection:keep-aliveSet-Cookie:__cfduid=d61f8c8270df6b50c47d6f5ec202ea2c21549288664; expires=Tue, 04-Feb-20 13:57:44 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"89-bSBFK27ZbQL+K8fMuJn/jZrcUuk"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3da5e8ea813665-MAN
+04/Feb/2019 13:57:45,581- HTTPComponent: url : https://reqres.in/api/users/2
+04/Feb/2019 13:57:45,581- HTTPComponent: Response : null
+04/Feb/2019 13:57:45,581- HTTPComponent: StatusCode : 204
+04/Feb/2019 13:57:45,581- HTTPComponent: Request Headers : 
+04/Feb/2019 13:57:45,581- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 13:57:45 GMTConnection:keep-aliveSet-Cookie:__cfduid=db80a996789ce2ce8e4f892ef02dd9e981549288665; expires=Tue, 04-Feb-20 13:57:45 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3da5ec5ac2bfcc-MAN
+04/Feb/2019 14:15:39,246- HTTPComponent: url : https://reqres.in/api/users
+04/Feb/2019 14:15:39,273- HTTPComponent: Response : {"name":"John Smith","job":"Tech Test","id":"991","createdAt":"2019-02-04T14:19:38.415Z"}
+04/Feb/2019 14:15:39,276- HTTPComponent: StatusCode : 201
+04/Feb/2019 14:15:39,277- HTTPComponent: Request Headers : 
+04/Feb/2019 14:15:39,278- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 14:15:38 GMTContent-Type:application/json; charset=utf-8Content-Length:89Connection:keep-aliveSet-Cookie:__cfduid=dfaacd3174a4fd7e80e99b9174e06d5af1549289738; expires=Tue, 04-Feb-20 14:15:38 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"59-6lX0VLtJ2tmVnyaOVrjE3kyN2kw"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3dc0212b93bfb8-MAN
+04/Feb/2019 14:15:39,887- HTTPComponent: url : https://reqres.in/api/users/2
+04/Feb/2019 14:15:39,887- HTTPComponent: Response : {"name":"John","job":"Tech Architect","updatedAt":"2019-02-04T14:19:39.118Z"}
+04/Feb/2019 14:15:39,888- HTTPComponent: StatusCode : 200
+04/Feb/2019 14:15:39,889- HTTPComponent: Request Headers : 
+04/Feb/2019 14:15:39,890- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 14:15:39 GMTContent-Type:application/json; charset=utf-8Transfer-Encoding:chunkedConnection:keep-aliveSet-Cookie:__cfduid=d21d56a63b3e9e69a81ad8832fc06f7521549289739; expires=Tue, 04-Feb-20 14:15:39 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"4d-tUZ52ay1H0PuFP1Qi9rBEhZ7yb0"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3dc025babdbfea-MAN
+04/Feb/2019 14:15:40,397- HTTPComponent: url : https://reqres.in/api/users/2
+04/Feb/2019 14:15:40,398- HTTPComponent: Response : {"data":{"id":2,"first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"}}
+04/Feb/2019 14:15:40,399- HTTPComponent: StatusCode : 200
+04/Feb/2019 14:15:40,399- HTTPComponent: Request Headers : 
+04/Feb/2019 14:15:40,400- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 14:15:40 GMTContent-Type:application/json; charset=utf-8Transfer-Encoding:chunkedConnection:keep-aliveSet-Cookie:__cfduid=d90c4636dacf9863cc05554a58fcefed61549289739; expires=Tue, 04-Feb-20 14:15:39 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"89-bSBFK27ZbQL+K8fMuJn/jZrcUuk"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3dc029387cbfef-MAN
+04/Feb/2019 14:15:40,903- HTTPComponent: url : https://reqres.in/api/users/2
+04/Feb/2019 14:15:40,904- HTTPComponent: Response : null
+04/Feb/2019 14:15:40,905- HTTPComponent: StatusCode : 204
+04/Feb/2019 14:15:40,906- HTTPComponent: Request Headers : 
+04/Feb/2019 14:15:40,906- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 14:15:40 GMTConnection:keep-aliveSet-Cookie:__cfduid=db24547c481234c6297cd2d51b6ab5a071549289740; expires=Tue, 04-Feb-20 14:15:40 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3dc02c6debbfea-MAN
+04/Feb/2019 14:19:38,955- HTTPComponent: url : https://reqres.in/api/users
+04/Feb/2019 14:19:38,961- HTTPComponent: Response : {"name":"John Smith","job":"Tech Test","id":"625","createdAt":"2019-02-04T14:23:38.191Z"}
+04/Feb/2019 14:19:38,962- HTTPComponent: StatusCode : 201
+04/Feb/2019 14:19:38,964- HTTPComponent: Request Headers : 
+04/Feb/2019 14:19:38,964- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 14:19:38 GMTContent-Type:application/json; charset=utf-8Content-Length:89Connection:keep-aliveSet-Cookie:__cfduid=d87802d928cb6f4e1d190f5c017dc07f21549289978; expires=Tue, 04-Feb-20 14:19:38 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"59-3hd4IEW6qJEv08fUYjwonc6tMhM"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3dc5fbee3abfb8-MAN
+04/Feb/2019 14:19:39,402- HTTPComponent: url : https://reqres.in/api/users/2
+04/Feb/2019 14:19:39,403- HTTPComponent: Response : {"name":"John","job":"Tech Architect","updatedAt":"2019-02-04T14:23:38.668Z"}
+04/Feb/2019 14:19:39,403- HTTPComponent: StatusCode : 200
+04/Feb/2019 14:19:39,404- HTTPComponent: Request Headers : 
+04/Feb/2019 14:19:39,405- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 14:19:38 GMTContent-Type:application/json; charset=utf-8Transfer-Encoding:chunkedConnection:keep-aliveSet-Cookie:__cfduid=d8d3db4802e56e9284abd26f9c807744f1549289978; expires=Tue, 04-Feb-20 14:19:38 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"4d-9sVrf4RwuFy+ovAZLJHVwfdzDGc"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3dc5ffaf6bbfcc-MAN
+04/Feb/2019 14:19:39,906- HTTPComponent: url : https://reqres.in/api/users/2
+04/Feb/2019 14:19:39,906- HTTPComponent: Response : {"data":{"id":2,"first_name":"Janet","last_name":"Weaver","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"}}
+04/Feb/2019 14:19:39,907- HTTPComponent: StatusCode : 200
+04/Feb/2019 14:19:39,908- HTTPComponent: Request Headers : 
+04/Feb/2019 14:19:39,908- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 14:19:39 GMTContent-Type:application/json; charset=utf-8Transfer-Encoding:chunkedConnection:keep-aliveSet-Cookie:__cfduid=dd2268b417aa4dbf7a3f53326cde91ff01549289979; expires=Tue, 04-Feb-20 14:19:39 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"89-bSBFK27ZbQL+K8fMuJn/jZrcUuk"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3dc6021a60bfef-MAN
+04/Feb/2019 14:19:40,420- HTTPComponent: url : https://reqres.in/api/users/2
+04/Feb/2019 14:19:40,421- HTTPComponent: Response : null
+04/Feb/2019 14:19:40,422- HTTPComponent: StatusCode : 204
+04/Feb/2019 14:19:40,423- HTTPComponent: Request Headers : 
+04/Feb/2019 14:19:40,424- HTTPComponent: Response Headers : Date:Mon, 04 Feb 2019 14:19:40 GMTConnection:keep-aliveSet-Cookie:__cfduid=d6e3a0207f010ec20dc97817307d396641549289979; expires=Tue, 04-Feb-20 14:19:39 GMT; path=/; domain=.reqres.in; HttpOnlyX-Powered-By:ExpressAccess-Control-Allow-Origin:*ETag:W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"Expect-CT:max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"Server:cloudflareCF-RAY:4a3dc6054859bfb3-MAN
